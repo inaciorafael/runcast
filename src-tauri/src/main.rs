@@ -5,7 +5,7 @@
 
 #[tauri::command]
 fn get_battery_percentage() -> String {
-    "98% mockado_rust".into()
+    "60%".into()
 }
 
 fn main() {

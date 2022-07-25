@@ -87,6 +87,11 @@ input {
   margin: 0;
 }
 
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
 button {
   cursor: pointer;
   background-color: transparent;

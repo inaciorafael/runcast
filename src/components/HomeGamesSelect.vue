@@ -8,7 +8,7 @@ export default defineComponent({
 
 <template>
   <div class="wrapper">
-    <h1>Home Games Select</h1>
+    <h1>Games</h1>
   </div>
 </template>
 
@@ -16,6 +16,6 @@ export default defineComponent({
 .wrapper {
   grid-area: content;
 
-  /* background-color: purple; */
+  padding: 0 30px;
 }
 </style>
